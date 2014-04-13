@@ -1,16 +1,18 @@
-## iata ![npm](https://badge.fury.io/js/iata.png)
+## IATA ![npm](https://badge.fury.io/js/iata.png)
 
-a collection of IATA codes including all airlines of the world
+a collection of IATA codes including all airlines and airports of the world.
 
 ### Installation
 ````
-$ [sudo] npm install iata
+$ npm install iata
 ````
-
 
 ### Example
 ````javascript
 var iata = require('iata');
+
+console.log(iata.airlines);
+console.log(iata.airports);
 ````
 
 ### API

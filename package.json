@@ -1,7 +1,7 @@
 {
   "name": "iata",
-  "version": "0.0.0",
-  "description": "a collection of IATA codes including all airlines of the world",
+  "version": "0.0.1",
+  "description": "a collection of IATA codes including all airlines and airports of the world.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
