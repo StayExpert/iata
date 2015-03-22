@@ -8,190 +8,160 @@ code,airline,belongs
 1B,Abacus International|环亚旅游资讯系统有限公司,新加坡
 1C,EDS Information Business,瑞士
 1D,Radixx Solutions International,美国
-1E,中国民航信息网络股份有限公司（TravelSky Technology Limited）,中华人民共和国 中华人民共和国
-1F,INFINI Travel Information 日本
-1G,伽利略国际公司 美国
+1E,TravelSky Technology Limited|中国民航信息网络股份有限公司,中华人民共和国
+1F,INFINI Travel Information,日本
+1G,伽利略国际公司,美国
 1H,Siren-Travel,俄罗斯
 1I,Netjets Aviation,美国
-德国空中救援组织,德国
-Nova Airlines 瑞典
-Sky Trek International Airlines 美国
-Sierra Nevada Airlines,美国
-土耳其飞马航空（Pegasus Hava Tasimaciligi AS） 土耳其
 1J,爱克森斯国际科技有限公司,日本
-1K,Sutra 美国
-Southern Cross Distribution 澳大利亚
+1K,Sutra,美国
 1L,Open Skies,美国
 1M,JSC Transport Automated Information Systems (TAIS),俄罗斯
-1N,Navitaire 美国
-1P,WorldSpan (同伽利略国际公司合并),美国
+1N,Navitaire,美国
 1Q,Sirena,俄罗斯
-1R,海南凤凰信息系统,中华人民共和国 中华人民共和国
-1S,Sabre 美国
-1T,1Time Airline 南非
-1U,Polyot Sirena 俄罗斯
-1V,阿波罗电脑订票系统 美国，已被加利略国际收购
-1Y,Electronic Data Systems Corporation 美国
-1Z,Sabre Pacific 澳大利亚
-2A,德国铁路（Deutsche Bahn）,德国
-2C,法国铁路（SNCF）,法国
+1R,海南凤凰信息系统,中华人民共和国
+1S,Sabre,美国
+1T,1Time Airline,南非
+1U,Polyot Sirena,俄罗斯
+1Y,Electronic Data Systems Corporation,美国
+1Z,Sabre Pacific,澳大利亚
+2A,Deutsche Bahn|德国铁路,德国
+2C,SNCF|法国铁路,法国
 2D,Aero VIP,阿根廷
-2F,边际飞行服务（Frontier Flying Service）,美国
-2G,圣璜航空（San Juan Airlines）,美国
-2H,大力士高速列车（Thalys） 比利时、法国、德国、荷兰
-2I,Star Up 秘鲁
-2J,布基纳航空（Air Burkina）,布基纳法索
-2L,赫尔维蒂航空（Helvetic Airways）,瑞士
-2M,摩尔多瓦航空公司（Moldovian Airlines）,摩尔多瓦
-2N,Yuzmashavia 乌克兰
-2O,塞拉里昂航空（Air Salone）,塞拉里昂
-2P,菲律宾飞鹰航空（Air Philippines）, 菲律宾
-2R,加拿大VIA铁路,加拿大
-2S,岛屿快递（Island Express）, 美国
-2T,海地大使航空（Haiti Ambassador Airlines） 海地
-2U,几内亚空中快递（Air Guinee Express） 几内亚
-2V,美国国铁（Amtrak）, 美国
-2W,Welcome Air 奥地利
-3J,Zip航空 加拿大（已结束营业）
-3K,捷星亚洲航空（Jetstar Asia）,新加坡
-3U,四川航空（Sichuan Airlines）,中国
+2F,Frontier Flying Service|边际飞行服务,美国
+2G,San Juan Airlines|圣璜航空,美国
+2H,Thalys|大力士高速列车,比利时|法国|德国|荷兰
+2I,Star Up,秘鲁
+2J,Air Burkina|布基纳航空,布基纳法索
+2L,Helvetic Airways|赫尔维蒂航空,瑞士
+2M,Moldovian Airlines|摩尔多瓦航空公司,摩尔多瓦
+2N,Yuzmashavia,乌克兰
+2O,Air Salone|塞拉里昂航空,塞拉里昂
+2P,Air Philippines|菲律宾飞鹰航空, 菲律宾
+2R,加拿大 VIA 铁路,加拿大
+2S,Island Express|岛屿快递, 美国
+2T,Haiti Ambassador Airlines|海地大使航空,海地
+2U,Air Guinee Express,几内亚空中快递,几内亚
+2V,Amtrak|美国国铁, 美国
+2W,Welcome Air,奥地利
+3K,Jetstar Asia|捷星亚洲航空,新加坡
+3U,Sichuan Airlines|四川航空,中国
 3A,珠江客运,中国
-Alliance Airlines/Kenosha Aero,美国
-3Q,云南航空,中国大陆（已结束营业）
-4A,基里巴斯航空（Air Kiribati）,基里巴斯
-4D,西奈航空（Air Sinai） 埃及
-4K,Askari Aviation Pvt Limited 巴基斯坦
-4L,阿斯坦纳航空（Air Astana）,哈萨克
-4R,汉堡国际（HI Hamburg International）,德国
-4U,Germanwings 德国
-5C,CAL Cargo Air Lines 以色列
-5D,V-Bird Airlines 荷兰
-5G,Skyservice Airlines 加拿大
-5J,宿雾太平洋航空（Cebu Pacific Air）,菲律宾
-5L,Aerosur 玻利维亚
+3Q,云南航空,中国大陆
+4A,Air Kiribati|基里巴斯航空,基里巴斯
+4D,Air Sinai|西奈航空,埃及
+4K,Askari Aviation Pvt Limited,巴基斯坦
+4L,Air Astana|阿斯坦纳航空,哈萨克
+4R,HI Hamburg International|汉堡国际,德国
+4U,Germanwings,德国
+5C,CAL Cargo Air Lines,以色列
+5D,V-Bird Airlines,荷兰
+5G,Skyservice Airlines,加拿大
+5J,Cebu Pacific Air|宿雾太平洋航空,菲律宾
+5L,Aerosur,玻利维亚
 5P,Skyeurope Airlines Hungary,匈牙利
-5T,北加拿大航空（Canadian North/Air NorTerra Inc） 加拿大
+5T,Canadian North/Air NorTerra Inc|北加拿大航空,加拿大
 5W,Astraeus,英国
-5X,优比速航空（UPS Airlines）,美国
-5Y,亚特拉斯航空（Atlas Air）,美国
-Isles of Scilly Skybus,英国
-6B,TUIfly Nordic 瑞典
-6E,印地高航空（IndiGo） 印度
-6G,威尔士航空 英国
-6H,以色列航空(El Al Israel Airlines/Israir Airlines),以色列
-6J,亚洲天网航空（Skynet Asia Airways） 日本
+5X,UPS Airlines|优比速航空, 美国
+5Y,Atlas Air|亚特拉斯航空, 美国
+6B,TUIfly Nordic, 瑞典
+6E,IndiGo|印地高航空, 印度
+6G,威尔士航空,英国
+6H,El Al Israel Airlines/Israir Airlines|以色列航空,以色列
+6J,Skynet Asia Airways|亚洲天网航空,日本
 6P,Club Air,意大利
-6U,乌克兰航空公司 乌克兰
-6V,维加斯航空（Air Vegas）,美国
-6W,Saratov 俄罗斯
-6Z,Panavia,S.A.,巴拿马
-乌克兰货运航空（Ukrainian Cargo Airways）,乌克兰
-7B,克拉斯诺亚尔斯克航空（Krasnojarsky Airlines/Kras Air Airlines） 俄罗斯
-7C,济州航空（Jeju Air）,韩国
-7D,顿涅兹克航空（Donbassaero Airlines）,乌克兰
-7F,第一航空（First Air） 加拿大
-7G,星悦航空（Star Flyer）,日本
-7K,康加林姆航空（Kogalymavia Airlines）,俄罗斯
-7L,Sun d'Or International Airlines 以色列
-8A,亚特拉斯蓝天航空（Atlas Blue）,摩洛哥
-8B,加勒比海之星航空公司（Caribbean Star Airlines） 安提瓜和巴布达
-8C,东星航空（East Star Airline） 中国
-Astair,俄罗斯
-8D,博览会航空（Expo Aviation）,斯里兰卡
-Servant Air 
-8E,白令航空（Bering Air）,美国阿拉斯加
-8F,Fischer Air 捷克
-8G,天使航空（Angel Airlines）,泰国
-8H,法国直升机（Heli France）,法国
-Highland Airways,英国
-8I,Myway Airlines (myair.com-Italy),意大利
-8J,科米国际航空（Komiinteravia） 俄罗斯
-Jet4you 摩洛哥
-8L,云南祥鹏航空（Lucky Air） 中国
-8M,缅甸国际航空公司（Myanmar Airways International） 缅甸
-Maxair,瑞典
-8N,Nordkalottflyg AB 瑞典
-8O,西海岸航空（West Coast Air） 加拿大
-8P,太平洋海岸航空（Pacific Coastal Airlines） 加拿大
-8Q,Onur Air/Baker Aviation 土耳其
+6U,乌克兰航空公司,乌克兰
+6V,Air Vegas|维加斯航空,美国
+6W,Saratov,俄罗斯
+6Z,Panavia S.A.,巴拿马
+7B,Krasnojarsky Airlines/Kras Air Airlines|克拉斯诺亚尔斯克航空,俄罗斯
+7C,Jeju Air|济州航空,韩国
+7D,Donbassaero Airlines|顿涅兹克航空,乌克兰
+7F,First Air|第一航空,加拿大
+7G,Star Flyer|星悦航空,日本
+7K,Kogalymavia Airlines|康加林姆航空,俄罗斯
+7L,Sun d'Or International Airlines, 以色列
+8A,Atlas Blue|亚特拉斯蓝天航空,摩洛哥
+8B,Caribbean Star Airlines|加勒比海之星航空公司,安提瓜和巴布达
+8C,East Star Airline|东星航空,中国
+8D,Expo Aviation|博览会航空,斯里兰卡
+8E,Bering Air|白令航空,美国阿拉斯加
+8F,Fischer Air,捷克
+8G,Angel Airlines|天使航空,泰国
+8H,Heli France|法国直升机,法国
+8I,Myway Airlines,意大利
+8J,Komiinteravia|科米国际航空,俄罗斯
+8L,Lucky Air|云南祥鹏航空,中国
+8M,Myanmar Airways International|缅甸国际航空公司,缅甸
+8N,Nordkalottflyg AB,瑞典
+8O,West Coast Air|西海岸航空,加拿大
+8P,Pacific Coastal Airlines|太平洋海岸航空,加拿大
+8Q,Onur Air/Baker Aviation,土耳其
 8R,Transporte Aereo Regional do Interior Paulista/Edelweiss Air,
-Trip Linhas Aereas,巴西
-8S,喷射飞航（Turbo Jet) 香港←→澳门
-8T,Air Tindi 加拿大
-8U,Afriqiyah Airways 利比亚
+8S,Turbo Jet|喷射飞航,香港|澳门
+8T,Air Tindi,加拿大
+8U,Afriqiyah Airways,利比亚
 8V,Wright Air,美国
 8W,BAX Global,
-Private Wings Flugcharter GmbH,德国
-8Y,布隆迪航空（Air Burundi）,布隆迪共和国
-8Z,LASER 委内瑞拉
-9C,春秋航空（Spring Airlines） 中国
-Gill Airways,英国
-9D,彼尔姆航空（Perm Airlines）,俄罗斯
-9E,颠峰航空(Pinnacle Airlines/西北航空地区接驳系统),美国
-XL Airways Germany,德国
-9I,泰国天鹰航空（Thai Sky Airline，已结业）,泰国
-9R,普吉航空（Phuket Air）,泰国
-9U,摩尔多瓦国家航空（Air Moldova） 摩尔多瓦
-9W,印度国内航线航空公司（Jet Airways） 印度
-9Y,哈萨克航空（Khazar Airlines，已结业）,印度
-A2,Cielos del Peru 阿根廷
+8Y,Air Burundi|布隆迪航空, 布隆迪共和国
+8Z,LASER,委内瑞拉
+9C,Spring Airlines|春秋航空,中国
+9D,Perm Airlines|彼尔姆航空,俄罗斯
+9E,Pinnacle Airlines|颠峰航空/西北航空地区接驳系统,美国
+9R,Phuket Air|普吉航空,泰国
+9U,Air Moldova|摩尔多瓦国家航空,摩尔多瓦
+9W,Jet Airways|印度国内航线航空公司,印度
+A2,Cielos del Peru,阿根廷
 A3,Aegean Airways,希腊
 A4,Southern Winds,阿根廷
-A5,Airlinair 法国
-A6,阿尔卑斯航空（Air Alps Aviation） 奥地利
-A7,彗星航空（Air Comet） 西班牙
-A8,贝宁高尔夫航空（Benin Golf Air） 贝宁
-A9,Airzena Georgian Airlines 乔治亚
-AA,美国航空（American Airlines） 美国
-AB,柏林航空（Air Berlin）,德国
-AC,加拿大航空（Air Canada） 加拿大
-AD,天堂航空（Air Paradise）,印度尼西亚
-AE,华信航空（Mandarin Airlines） 台湾
-AF,法国航空（Air France）,法国
-AG,Air Contractors 爱尔兰
-AH,阿尔及利亚航空（Air Algerie）,阿尔及利亚
-AI,印度航空（Air India） 印度
-AJ,尼日利亚航空承包公司（Aero Contractors）,尼日利亚
-AK,亚洲航空（AirAsia Berhad）,马来西亚
-AL,擎天航空/中西航空接驳（Skyway Airlines）,美国
-Transaviaexport Cargo Airline 白俄罗斯
-AM,墨西哥航空公司（Aeroméxico） 墨西哥
-AN,澳洲安捷航空,澳洲 (已歇业)
-AO,澳亚航空（Australian Airlines） 澳洲 (已终止运作)
-AP,Air One 意大利
-AQ,阿罗哈航空公司（Aloha Airlines） 美国
-AR,阿根廷航空公司（Aerolineas Argentinas S.A.） 阿根廷
-AS,阿拉斯加航空公司（Alaska Airlines） 美国
-AT,摩洛哥皇家航空公司（Royal Air Maroc）,摩洛哥
+A5,Airlinair,法国
+A6,Air Alps Aviation|阿尔卑斯航空,奥地利
+A7,Air Comet|彗星航空,西班牙
+A8,Benin Golf Air|贝宁高尔夫航空,贝宁
+A9,Airzena Georgian Airlines,乔治亚
+AA,American Airlines|美国航空,美国
+AB,Air Berlin|柏林航空,德国
+AC,Air Canada|加拿大航空,加拿大
+AD,Air Paradise|天堂航空,印度尼西亚
+AE,Mandarin Airlines|华信航空,台湾
+AF,Air France|法国航空,法国
+AG,Air Contractors,爱尔兰
+AH,Air Algerie|阿尔及利亚航空,阿尔及利亚
+AI,Air India|印度航空,印度
+AJ,Aero Contractors|尼日利亚航空承包公司,尼日利亚
+AK,AirAsia Berhad|亚洲航空,马来西亚
+AL,Skyway Airlines|擎天航空/中西航空接驳,美国
+AM,Aeroméxico|墨西哥航空公司,墨西哥
+AP,Air One,意大利
+AQ,Aloha Airlines|阿罗哈航空公司,美国
+AR,Aerolineas Argentinas S.A.|阿根廷航空公司,阿根廷
+AS,Alaska Airlines|阿拉斯加航空公司,美国
+AT,Royal Air Maroc|摩洛哥皇家航空公司,摩洛哥
 AU,Austral Lineas Aereas-Cielos del Sur,阿根廷
-AV,Avianca (Aerovias Nacionales de Colombia) 哥伦比亚
-AW,Schreiner Airways 荷兰
-Dirgantara Air Services 印度尼西亚
-AX,州际航空/美国航空接驳（Trans State Airlines） 美国
-Blue Islands,英国
-AY,芬兰航空（Finnair） 芬兰
-AZ,意大利航空（Alitalia） 意大利
-B2,白俄罗斯航空（Belavia） 白俄罗斯
-B3,贝尔韦尤航空公司（Bellview Airlines） 尼日利亚
+AV,Avianca|哥伦比亚航空,哥伦比亚
+AW,Schreiner Airways,荷兰
+Dirgantara Air Services,印度尼西亚
+AX,Trans State Airlines|州际航空/美国航空接驳,美国
+AY,Finnair|芬兰航空,芬兰
+AZ,Alitalia|意大利航空,意大利
+B2,Belavia|白俄罗斯航空,白俄罗斯
+B3,Bellview Airlines|贝尔韦尤航空公司,尼日利亚
 B4,B.A.C.H. Flugbetriebs 德国
-Bankair,美国
 B5,Amadeus Flugdienst,德国
-B6,捷蓝航空（Jetblue Airways）,美国
-B7,立荣航空（Uni Airways）,中华民国
-B8,厄立特里亚航空（Eritrean Airlines）,厄立特里亚
-B9,伊朗陆游航空公司（Iran Air Tours）,伊朗
-孟加拉航空 孟加拉
-BA,英国航空（British Airways）,英国
-BB,海运航空（Seaborne Airlines）,美国
-BC,天马航空（Skymark Airlines）,日本
-BD,英伦航空（bmi british midland）,英国
-BE,欧洲泽西岛航空（FlyBE）, 英国
-BF,蓝鸟货运航空公司（Bluebird Cargo）,冰岛
-Aero-Service,哥伦比亚
-BG,孟加拉国家航空（Biman Bangladesh Airlines）,孟加拉
-BH,鹰空航空服务（Hawkair Aviation）,加拿大
-BI,文莱皇家航空（Royal Brunei Airlines） 文莱
-BJ,Nouvelair Tunisia 突尼斯
+B6,Jetblue Airways|捷蓝航空,美国
+B7,Uni Airways|立荣航空,台湾
+B8,Eritrean Airlines|厄立特里亚航空,厄立特里亚
+B9,Iran Air Tours|伊朗陆游航空公司,伊朗
+BA,British Airways|英国航空,英国
+BB,Seaborne Airlines|海运航空,美国
+BC,Skymark Airlines|天马航空,日本
+BD,Bmi british midland|英伦航空,英国
+BE,FlyBE|欧洲泽西岛航空, 英国
+BF,Bluebird Cargo|蓝鸟货运航空公司,冰岛
+BG,Biman Bangladesh Airlines|孟加拉国家航空,孟加拉
+BH,Hawkair Aviation|鹰空航空服务,加拿大
+BI,Royal Brunei Airlines|文莱皇家航空,文莱
+BJ,Nouvelair Tunisia,突尼斯
 BK,奥凯航空（Okay Airways）,中华人民共和国 中华人民共和国
 Potomac Air/US Airways Express, 美国
 BL,越南太平洋航空（Pacific Airlines） 越南
