@@ -1,6 +1,6 @@
 ## IATA ![npm](https://badge.fury.io/js/iata.png)
 
-a collection of IATA codes including all airlines and airports of the world.
+A collection of IATA codes, including all airlines and airports.
 
 ### Installation
 ````
@@ -13,19 +13,12 @@ var iata = require('iata');
 
 console.log(iata.airlines);
 console.log(iata.airports);
+console.log(iata.airlines.CZ);
+console.log(iata.airports.SZX);
 ````
 
 ### API
 check this file: `index.js`
-
-### Contributing
-- Fork this repo
-- Clone your repo
-- Install dependencies
-- Checkout a feature branch
-- Feel free to add your features
-- Make sure your features are fully tested
-- Open a pull request, and enjoy <3
 
 ### MIT license
 Copyright (c) 2014 turing &lt;o.u.turing@gmail.com&gt;
