@@ -162,176 +162,160 @@ BG,Biman Bangladesh Airlines|孟加拉国家航空,孟加拉
 BH,Hawkair Aviation|鹰空航空服务,加拿大
 BI,Royal Brunei Airlines|文莱皇家航空,文莱
 BJ,Nouvelair Tunisia,突尼斯
-BK,奥凯航空（Okay Airways）,中华人民共和国 中华人民共和国
-Potomac Air/US Airways Express, 美国
-BL,越南太平洋航空（Pacific Airlines） 越南
+BK,Okay Airways|奥凯航空,中华人民共和国
+BL,Pacific Airlines|越南太平洋航空,越南
 BM,Bayu Indonesia Air,印度尼西亚
-Air Sicilia 意大利
 BN,Forward Air International Airlines, 美国
-Braniff International Airways,美国
-澳洲水平线航空 澳洲 (已歇业)
 BO,印度尼西亚波拉克航空,印度尼西亚
-BP,博茨瓦纳航空（Air Botswana）,博茨瓦纳
+BP,Air Botswana|博茨瓦纳航空,博茨瓦纳
 BQ,多米尼加航空,多米尼加共和国
-BR,长荣航空（EVA Airways）,中华民国
-BS,英国国际直升机公司（British International）, 英国
-BT,波罗的海航空（Air Baltic）,拉托维亚
-BU,布拉森航空 挪威 (因并入北欧航空而不再使用此代码)
+BR,EVA Airways|长荣航空,中华民国
+BS,British International|英国国际直升机公司, 英国
+BT,Air Baltic|波罗的海航空,拉托维亚
 BV,Blue Panorama Airlines,意大利
-BW,英国西印度航空公司（Bwia West Indies） 特立尼达和多巴哥
-BX,海岸航空（Coast Air Ks）,挪威
-BY,汤姆森航空（Thomsonfly）,英国
-BZ,冠石航空（Keystone Air Service）,加拿大
-蓝标快递（Blue Dart） 印度
-C0,中央之翼（Centralwings）,波兰
-C3,Independent Carrier 
-Contact Air 德国
+BW,Bwia West Indies|英国西印度航空公司,特立尼达和多巴哥
+BX,Coast Air Ks|海岸航空,挪威
+BY,Thomsonfly|汤姆森航空,英国
+BZ,Keystone Air Service|冠石航空,加拿大
+C0,Centralwings|中央之翼,波兰
+C3,Independent Carrier,
 C4,Zimex Aviation Limited,
-Alma de Mexico,墨西哥
-C5,Champlain Enterprises 
-C6,Canjet Airlines 加拿大
+C5,Champlain Enterprises,
+C6,Canjet Airlines,加拿大
 C7,Rico Linhas Aereas,巴西
-C8,芝加哥快捷航空/联美航空接驳, 美国（已结束营运）
-C9,Cirrus Airlines 德国
-CA,中国国际航空公司（Air China） 中国
-CB,ScotAirways 英国
-CC,冰岛亚特兰大航空（Air Atlanta Icelandic） 冰岛
-Macair Airlines 澳大利亚昆士兰省
-CD,印度联盟航空（Alliance Air）,印度
-CE,国家航空（Nationwide Airlines） 南非
-CF,城市航空（City Airline）,瑞典
-CG,巴布亚新几内亚航空（Airline of Papua N G） 巴布亚新几内亚
-CH,伯米吉航空（Bemidji Aviation） 美国明尼苏达州
-CI,中华航空（China Airlines）, 中华民国
-CJ,中国北方航空公司,中华人民共和国 中华人民共和国
-CK,中国货运航空公司（China Cargo） 中华人民共和国 中华人民共和国
-CL,汉莎城市航空（Lufthansa CityLine）,德国
+C9,Cirrus Airlines,德国
+CA,Air China,中国国际航空公司,中国
+CB,ScotAirways,英国
+CC,Air Atlanta Icelandic|冰岛亚特兰大航空,冰岛
+CD,Alliance Air|印度联盟航空,印度
+CE,Nationwide Airlines|国家航空,南非
+CF,City Airline|城市航空,瑞典
+CG,Airline of Papua N G|巴布亚新几内亚航空,巴布亚新几内亚
+CH,Bemidji Aviation|伯米吉航空,美国明尼苏达州
+CI,China Airlines|中华航空, 台湾
+CJ,中国北方航空公司,中华人民共和国
+CK,China Cargo|中国货运航空公司,中华人民共和国
+CL,Lufthansa CityLine|汉莎城市航空,德国
 CM,COPA,巴拿马
 CN,Westward Airways,
-Islands Nationair 
-CO,美国大陆航空（Continental Airlines）,美国
-CP,加拿大航空（Canadian Airlines）,加拿大 (被购并)
-CQ,阳光航空（Sunshine Express Airlines） 澳大利亚
-CR,OAG Worldwide 英国
-CS[1] 密克罗尼西亚大陆航空（Micronesia）,美国
-CT,民航空运公司（Civil Air Transport Inc.）, 中华民国（已结束营运）
-CU,古巴航空（Cubana de Aviación）,古巴
-CV,卢森堡国际货运航空公司（Cargolux Airlines International）,卢森堡
-CW,马绍尔群岛航空（Air Marshall Islands） 马绍尔群岛
-CX,国泰航空（Cathay Pacific Airways）,香港
-CY,塞浦路斯航空（Cyprus Airways）,塞浦路斯
-CZ,中国南方航空公司（China Southern Airlines） 中国
-D2,Damania Airways 
-Severstal Aircompany,俄罗斯
-D3,Daallo Airlines 索马里
-D5,Nepc Airlines 
-D6,Interair South Africa 津巴布韦
-D7,Dinar Lineas Aereas 
-Air Asia X,马来西亚
+CO,Continental Airlines|美国大陆航空,美国
+CQ,Sunshine Express Airlines|阳光航空,澳大利亚
+CR,OAG Worldwide,英国
+CS,Micronesia|密克罗尼西亚大陆航空,美国
+CU,Cubana de Aviación|古巴航空,古巴
+CV,Cargolux Airlines International|卢森堡国际货运航空公司,卢森堡
+CW,Air Marshall Islands|马绍尔群岛航空,马绍尔群岛
+CX,Cathay Pacific Airways|国泰航空,香港
+CY,Cyprus Airways|塞浦路斯航空,塞浦路斯
+CZ,China Southern Airlines|中国南方航空公司,中国
+D2,Damania Airways, 
+D3,Daallo Airlines,索马里
+D5,Nepc Airlines,
+D6,Interair South Africa,津巴布韦
+D7,Dinar Lineas Aereas,
 D8,Diamond Sakha Airlines,
-Djibouti Airlines 吉布提
-D9,Donavia 俄罗斯
+D9,Donavia 俄罗斯,
 DA,格鲁吉亚航空,乔治亚
-DB,不列特航空 法国
-DC,黄金航空（Golden Air）,瑞典
+DB,不列特航空,法国
+DC,Golden Air|黄金航空,瑞典
 DD,Conti-Flug,
-Nok Air 泰国
+DD,Nok Air,泰国
 DE,Prime Air Inc.,
-神鹰航空,德国
-DF,秃鹰航空（Aebal） 西班牙
-DG,东太平洋航空（South East Asian）,菲律宾
-DH,独立航空（Independence Air）,美国 (已歇业)
-DHL 美国
-DI,Deutsche BA 德国
+DE,神鹰航空,德国
+DF,Aebal|秃鹰航空,西班牙
+DG,South East Asian|东太平洋航空,菲律宾
+DH,Independence Air|独立航空,美国
+DH,DHL,美国
+DI,Deutsche BA,德国
 DK,Eastland Air,
-DL,达美航空（Delta Airlines）,美国
+DL,Delta Airlines|达美航空,美国
 DM,Maersk,丹麦
 DN,Air Deccan,印度
-DO,多米尼加国家航空（Dominicana）,多米尼加共和国 (已歇业)
+DO,多米尼加国家航空（Dominicana）,多米尼加共和国
 DP,Air 2000,
-First Choice Airways,英国
-DQ,海岸航空运输公司（Coastal Air Transport） 美国
+DP,First Choice Airways,英国
+DQ,Coastal Air Transport|海岸航空运输公司,美国
 DR,Hyères Aero Services,
-Air Link,澳大利亚
-DS,塞内加尔航空（Air Senegal） 塞内加尔
-DT,安哥拉航空（Taag Angola Airlines） 安哥拉
-DU,Hemus Air 保加利亚
+DR,Air Link,澳大利亚
+DS,Air Senegal|塞内加尔航空,塞内加尔
+DT,Taag Angola Airlines|安哥拉航空,安哥拉
+DU,Hemus Air,保加利亚
 DV,Nantucket Airlines,卡萨克斯坦
 DW,Aero Charter,乌克兰
-DX,丹麦航空运输公司（Danish Air Transport）,丹麦
-DY,挪威航空（Norwegian Air Shuttle） 挪威
-DZ,Air Metro North 
+DX,Danish Air Transport|丹麦航空运输公司,丹麦
+DY,Norwegian Air Shuttle|挪威航空,挪威
+DZ,Air Metro North,
 E2,Edelweiss Holdings,
-E3,Domodedovo Airlines 俄罗斯
-E4,亚洲国际航空(Aero Asia International) 巴基斯坦
-E5,Samara Airlines 俄罗斯
-E7,European Aviation Air/Estafeta Carga Aerea,墨西哥
+E3,Domodedovo Airlines,俄罗斯
+E4,Aero Asia International|亚洲国际航空,巴基斯坦
+E5,Samara Airlines,俄罗斯
+E7,European Aviation Air,墨西哥
 E8,ALPI Eagles S.p.A.,
-E9,波士顿－缅因航空（Boston-Maine Airways）,美国东部
+E9,Boston-Maine Airways|波士顿缅因航空,美国东部
 EA,European Air Express,
 EC,Avialeasing Aviation Company,乌兹别克斯坦
-ED,Airblue 巴基斯坦
+ED,Airblue,巴基斯坦
 EE,Aero Airlines 
-EF,远东航空（Far Eastern Air Transport）,中华民国（已改为FE）
-EG,日本亚细亚航空（Japan Asia Airways）,日本（并入日本航空）
+FE,Far Eastern Air Transport|远东航空,台湾
+EG,Japan Asia Airways|日本亚细亚航空,日本
 EH,SAETA Sociedad Anónima Ecuatoriana de Transportes Aéreos,
-EI,爱尔兰航空(Aer Lingus Irish Airlines),爱尔兰
-EJ,新英格兰航空（New England Airlines）, 美国罗德岛州
-EK,阿联酋国际航空（Emirates） 阿拉伯联合酋长国
-EL,日空航空（Air Nippon）, 日本
+EI,Aer Lingus Irish Airlines|爱尔兰航空,爱尔兰
+EJ,New England Airlines|新英格兰航空, 美国罗德岛州
+EK,Emirates|阿联酋国际航空,阿拉伯联合酋长国
+EL,Air Nippon|日空航空, 日本
 EM,帝国航空公司, 美国
-贝宁航空（Aero Benin）,贝宁
+EM,Aero Benin|贝宁航空,贝宁
 EN,Air Dolomiti,意大利
-EO,Express One International/Hewa Bora Airways 刚果共和国
-EP,伊朗奥赛玛航空（Iran Aseman Airlines） 伊朗
-EQ,TAME (Transportes Aéreos Militares Ecuatorianos); slogan: "La línea aérea del Ecuador",厄瓜多尔
-ER,Astar Air Cargo 
-ES,DHL国际 巴林
-ET,埃塞俄比亚航空（Ethiopian Airlines） 埃塞俄比亚
-EU,鹰联航空,中华人民共和国 中华人民共和国
-Ecuatoriana 厄瓜多尔
+EO,Hewa Bora Airways,刚果共和国
+EP,Iran Aseman Airlines|伊朗奥赛玛航空,伊朗
+EQ,Transportes Aéreos Militares Ecuatorianos,厄瓜多尔
+ER,Astar Air Cargo,
+ES,DHL国际,巴林
+ET,Ethiopian Airlines|埃塞俄比亚航空,埃塞俄比亚
+EU,鹰联航空,中华人民共和国
+EU,Ecuatoriana,厄瓜多尔
 EV,东南大西洋航空/达美航空接驳, 美国
-EW,Eurowings 
+EW,Eurowings,
 EX,Aerolineas Santo Domingo,
-EY,阿提哈德航空公司(Etihad Airways/Eagle Air),阿联酋
+EY,Etihad Airways|阿提哈德航空公司,阿联酋
 EZ,常青国际航空, 美国
-斯堪的纳维亚阳光航空(Sun Air of Scandinavia), 丹麦
-F4,上海国际货运航空,中华人民共和国 中华人民共和国
-F6,中国航空股份有限公司,中华人民共和国 中华人民共和国
-F9,边疆航空（Frontier Airlines）,美国
-FB,保加利亚航空（Bulgaria Air）,保加利亚
-FC,芬兰通勤航空（Finncomm Airlines） 芬兰
-FD,泰国亚洲航空（Thai AirAsia）,泰国
-FE,远东航空（Far Eastern Air Transport）,中华民国
-FG,阿富汗航空(Ariana Afghan Airlines) 阿富汗
-FI,冰岛航空（Icelandair）,冰岛
-FJ,太平洋航空（Air Pacific）,斐济
-FL,AirTran Airways 美国
-FM,上海航空公司（Shanghai Airlines） 中华人民共和国 中华人民共和国
+EZ,Sun Air of Scandinavia|斯堪的纳维亚阳光航空, 丹麦
+F4,上海国际货运航空,中华人民共和国
+F6,中国航空股份有限公司,中华人民共和国
+F9,Frontier Airlines|边疆航空,美国
+FB,Bulgaria Air|保加利亚航空,保加利亚
+FC,Finncomm Airlines|芬兰通勤航空,芬兰
+FD,Thai AirAsia|泰国亚洲航空,泰国
+FE,Far Eastern Air Transport|远东航空,台湾
+FG,Ariana Afghan Airlines|阿富汗航空,阿富汗
+FI,Icelandair|冰岛航空,冰岛
+FJ,Air Pacific|太平洋航空,斐济
+FL,AirTran Airways,美国
+FM,Shanghai Airlines|上海航空公司,中华人民共和国
 FQ,Thomas Cook Airlines,比利时
-FR,Ryanair / Centre-South,爱尔兰/俄罗斯
-FT,暹粒航空公司(Siem Reap Airways International) 柬埔寨
+FR,Ryanair/Centre-South,爱尔兰/俄罗斯
+FT,Siem Reap Airways International|暹粒航空公司,柬埔寨
 FV,Pulkovo Aviation,俄罗斯
-FW,IBEX航空（Fair）,日本
+FW,Fair|IBEX航空,日本
 FX,联邦快递,美国
-FZ,迪拜航空（Flydubai）,阿联酋
-G0,加纳国际航空公司（Ghana International Airlines）,加纳
-G4,忠实航空（Allegiant Air） 美国
-G5,Enkor 俄罗斯
+FZ,Flydubai|迪拜航空,阿联酋
+G0,Ghana International Airlines|加纳国际航空公司,加纳
+G4,Allegiant Air|忠实航空,美国
+G5,Enkor,俄罗斯
 G6,吴哥航空,柬埔寨
 G8,中国长城航空公司,中国
-Go Air,印度
-G9,阿拉伯航空（Air Arabia） 阿联酋
-GA,嘉鲁达印尼航空（Garuda Indonesia） 印尼
-GB,ABX Air 美国
-GC,甘比亚国际航空（Gambia International Airlines）,甘比亚
-GE,复兴航空（Trans Asia Airways）,中华民国/台湾
-GF,海湾航空（Gulf Air）,巴林
-GH,加纳航空（Ghana Airways） 加纳
-GM,斯洛伐克航空（Air Slovakia）,斯洛伐克
-GN,加蓬航空（Air Gabon） 加蓬
+G8,Go Air,印度
+G9,Air Arabia|阿拉伯航空,阿联酋
+GA,Garuda Indonesia|嘉鲁达印尼航空,印尼
+GB,ABX Air,美国
+GC,Gambia International Airlines|甘比亚国际航空,甘比亚
+GE,Trans Asia Airways|复兴航空,台湾
+GF,Gulf Air|海湾航空,巴林
+GH,Ghana Airways|加纳航空,加纳
+GM,Air Slovakia|斯洛伐克航空,斯洛伐克
+GN,Air Gabon|加蓬航空,加蓬
 GQ,Big Sky Airlines,美国
-GS,天津航空（Tianjin Airlines）,中国
+GS,Tianjin Airlines|天津航空,中国
 GT,GB Airways,西班牙
 GW,Kubun Airlines,俄罗斯
 H2,Sky Airline 智利
