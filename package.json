@@ -1,24 +1,22 @@
 {
   "name": "iata",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a collection of IATA codes including all airlines and airports of the world.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flyerIm/IATA.git"
+    "url": "https://github.com/StayExpert/IATA.git"
   },
   "keywords": [
     "IATA",
     "codes",
-    "airlines"
+    "airlines",
+    "ffp"
   ],
   "author": "turing <o.u.turing@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flyerIm/IATA/issues"
+    "url": "https://github.com/StayExpert/IATA/issues"
   },
-  "homepage": "https://github.com/flyerIm/IATA"
+  "homepage": "https://github.com/StayExpert/IATA"
 }
