@@ -45,9 +45,9 @@ code,airline,belongs
 2V,Amtrak|美国国铁, 美国
 2W,Welcome Air,奥地利
 3K,Jetstar Asia|捷星亚洲航空,新加坡
-3U,Sichuan Airlines|四川航空,中国
-3A,珠江客运,中国
-3Q,云南航空,中国大陆
+3U,Sichuan Airlines|四川航空,中华人民共和国
+3A,珠江客运,中华人民共和国
+3Q,云南航空,中华人民共和国
 4A,Air Kiribati|基里巴斯航空,基里巴斯
 4D,Air Sinai|西奈航空,埃及
 4K,Askari Aviation Pvt Limited,巴基斯坦
@@ -83,7 +83,7 @@ code,airline,belongs
 7L,Sun d'Or International Airlines, 以色列
 8A,Atlas Blue|亚特拉斯蓝天航空,摩洛哥
 8B,Caribbean Star Airlines|加勒比海之星航空公司,安提瓜和巴布达
-8C,East Star Airline|东星航空,中国
+8C,East Star Airline|东星航空,中华人民共和国
 8D,Expo Aviation|博览会航空,斯里兰卡
 8E,Bering Air|白令航空,美国阿拉斯加
 8F,Fischer Air,捷克
@@ -91,7 +91,7 @@ code,airline,belongs
 8H,Heli France|法国直升机,法国
 8I,Myway Airlines,意大利
 8J,Komiinteravia|科米国际航空,俄罗斯
-8L,Lucky Air|云南祥鹏航空,中国
+8L,Lucky Air|云南祥鹏航空,中华人民共和国
 8M,Myanmar Airways International|缅甸国际航空公司,缅甸
 8N,Nordkalottflyg AB,瑞典
 8O,West Coast Air|西海岸航空,加拿大
@@ -105,7 +105,7 @@ code,airline,belongs
 8W,BAX Global,
 8Y,Air Burundi|布隆迪航空, 布隆迪共和国
 8Z,LASER,委内瑞拉
-9C,Spring Airlines|春秋航空,中国
+9C,Spring Airlines|春秋航空,中华人民共和国
 9D,Perm Airlines|彼尔姆航空,俄罗斯
 9E,Pinnacle Airlines|颠峰航空/西北航空地区接驳系统,美国
 9R,Phuket Air|普吉航空,泰国
@@ -184,7 +184,7 @@ C5,Champlain Enterprises,
 C6,Canjet Airlines,加拿大
 C7,Rico Linhas Aereas,巴西
 C9,Cirrus Airlines,德国
-CA,Air China,中国国际航空公司,中国
+CA,Air China,中国国际航空公司,中华人民共和国
 CB,ScotAirways,英国
 CC,Air Atlanta Icelandic|冰岛亚特兰大航空,冰岛
 CD,Alliance Air|印度联盟航空,印度
@@ -207,7 +207,7 @@ CV,Cargolux Airlines International|卢森堡国际货运航空公司,卢森堡
 CW,Air Marshall Islands|马绍尔群岛航空,马绍尔群岛
 CX,Cathay Pacific Airways|国泰航空,香港
 CY,Cyprus Airways|塞浦路斯航空,塞浦路斯
-CZ,China Southern Airlines|中国南方航空公司,中国
+CZ,China Southern Airlines|中国南方航空公司,中华人民共和国
 D2,Damania Airways, 
 D3,Daallo Airlines,索马里
 D5,Nepc Airlines,
@@ -303,7 +303,7 @@ G0,Ghana International Airlines|加纳国际航空公司,加纳
 G4,Allegiant Air|忠实航空,美国
 G5,Enkor,俄罗斯
 G6,吴哥航空,柬埔寨
-G8,中国长城航空公司,中国
+G8,中国长城航空公司,中华人民共和国
 G8,Go Air,印度
 G9,Air Arabia|阿拉伯航空,阿联酋
 GA,Garuda Indonesia|嘉鲁达印尼航空,印尼
@@ -315,7 +315,7 @@ GH,Ghana Airways|加纳航空,加纳
 GM,Air Slovakia|斯洛伐克航空,斯洛伐克
 GN,Air Gabon|加蓬航空,加蓬
 GQ,Big Sky Airlines,美国
-GS,Tianjin Airlines|天津航空,中国
+GS,Tianjin Airlines|天津航空,中华人民共和国
 GT,GB Airways,西班牙
 GW,Kubun Airlines,俄罗斯
 H2,Sky Airline,智利
@@ -328,9 +328,9 @@ HD,Hokkaido International Airlines/Air Do|北海道国际航空,日本
 HE,Luftfahrtgesellschaft Walter,德国
 HG,Niki,奥地利
 HM,Air Seychelles|塞舌尔航空,塞舌尔
-HO,Juneyao Airlines|吉祥航空,中国
+HO,Juneyao Airlines|吉祥航空,中华人民共和国
 HP,America West|美西航空,美国
-HU,Hainan Airlines|海南航空,中国
+HU,Hainan Airlines|海南航空,中华人民共和国
 HV,Transavia Holland,荷兰
 HW,Iceland Express/Hello|冰岛快捷航空,冰岛/瑞士
 HX,香港航空,香港
@@ -342,7 +342,7 @@ IC,Indian Airlines,印度
 IG,Meridiana|子午航空,意大利
 IN,Macedonian Airlines|马其顿航空公司,马其顿
 IR,Iran Air|伊朗航空,伊朗
-IV,福建航空公司,中国
+IV,福建航空公司,中华人民共和国
 IV,Wind Jet,意大利
 IW,AOM French Airlines,法国
 IY,Yemenia Yemen Airways|也门航空,也门
@@ -353,7 +353,7 @@ J7,Centre-Avia Airlines,俄罗斯
 J9,Guinee Airlines|几内亚航空,几内亚
 JB,Helijet International,加拿大
 JC,JAL Express|日航快捷,日本
-JD,Beijing capital airlines|首都航空,中国
+JD,Beijing capital airlines|首都航空,中华人民共和国
 JJ,Aviogenex,
 JJ,TAM Linhas Aereas,巴西
 JK,Spanair|西班牙斯班航空,西班牙
@@ -366,21 +366,20 @@ JS,高丽航空,朝鲜
 JT,Lion Air|狮子航空,印度尼西亚
 JU,Jat Airways,塞尔维亚
 JW,Arrow Air|华箭货运,美国
-K9,Tonle sap airline|通里萨航空,柬埔寨
 KA,Dragonair|港龙航空,香港
 KB,Druk Air,不丹
 KE,Korean Air|大韩航空,韩国
 KF,Blue1|蓝天航空,芬兰
 KL,KLM|荷兰皇家航空,荷兰
 KM,Air Malta|马耳他航空,马耳他
-KN,中国联合航空,中国
+KN,中国联合航空,中华人民共和国
 KT,KTK Airlines|大高航空,香港
 KQ,Kenya Airways|肯尼亚航空,肯尼亚
 KU,Kuwait Airways|科威特航空,科威特
 KV,Kavminvodyavia,俄罗斯
 KW,Kelowna Flightcraft,
 KX,Cayman Airways|开曼航空,开曼群岛
-KY,Kunming Airlines|昆明航空,中国
+KY,Kunming Airlines|昆明航空,中华人民共和国
 KZ,Nippon Cargo Airlines|日本货物航空,日本
 L4,Lauda Italy,意大利
 LA,Lan Chile|智利国家航空,智利
@@ -405,7 +404,7 @@ MA,Malev Hungarian Airlines|匈牙利航空,匈牙利
 MB,MNG Airlines,土耳其
 MD,Air Madagascar|马达加斯加航空,马达加斯加
 ME,Middle East Airlines|中东航空,黎巴嫩
-MF,Xiamen Airlines|厦门航空,中国
+MF,Xiamen Airlines|厦门航空,中华人民共和国
 MH,Malaysia Airlines|马来西亚航空,马来西亚
 MI,Silk Air|胜安航空,新加坡
 MJ,Lineas Aereas Privadas Argentinas|阿根廷私有航空公司,阿根廷
@@ -415,7 +414,7 @@ MP,Martinair|马丁航空,荷兰
 MR,Air Mauritania|毛里塔尼亚航空公司,毛里塔尼亚
 MS,Egyptair|埃及航空,埃及
 MT,Thomas Cook Airlines|托马斯库克航空,英国
-MU,China Eastern Airlines|中国东方航空公司,中国
+MU,China Eastern Airlines|中国东方航空公司,中华人民共和国
 MV,Armenian International Airways|亚美尼亚国际航空公司,亚美尼亚
 MX,Mexicana de Aviacion|墨西哥航空,墨西哥
 MZ,Merpati Nusantara Airlines|鸽航,印度尼西亚
@@ -428,7 +427,7 @@ NI,Portugalia,葡萄牙
 NK,Spirit Airlines|精神航空,美国
 NL,Shaheen Air International,巴基斯坦
 NQ,Air Japan,日本
-NS,Hebei Airlines|河北航空,中国
+NS,Hebei Airlines|河北航空,中华人民共和国
 NV,中日本航空株式会社,日本
 NX,Air Macau|澳门航空,澳门
 NW,Northwest Airlines|西北航空,美国
@@ -455,168 +454,170 @@ PD,波特航空,加拿大
 PE,Air Europe SPA,
 PG,Bangkok Airways|曼谷航空,泰国
 PK,Pakistan International Airlines|巴基斯坦国际航空,巴基斯坦
-PN,West Air|西部航空,属于海航集团ＨＮＡ中国
-PO,美商保罗航空公司极地航空公司（Polar） 美国
-PR,菲律宾航空（Philippine Airlines）,菲律宾
-PS,乌克兰国际航空(Ukraine International Airlines) 乌克兰
-PX,Air Niugini 巴布亚新几内亚
-PY,苏里南航空（Surinam Airways）,苏里南
+PN,West Air|西部航空,中华人民共和国
+PO,Polar|美商保罗航空公司极地航空公司,美国
+PR,Philippine Airlines|菲律宾航空,菲律宾
+PS,Ukraine International Airlines|乌克兰国际航空,乌克兰
+PX,Air Niugini,巴布亚新几内亚
+PY,Surinam Airways|苏里南航空,苏里南
 Q3,PB Air,泰国
-Q5,40-Mile Air 美国
-QF,澳洲航空（Qantas Airways）,澳洲
-QT,哥伦比亚坦帕航空公司,
-QQ,Alliance Airlines Reno Air,美国（已歇业）
-QR,卡塔尔航空（Qatar Airways）,卡塔尔
-QS,Travel Service Airlines Smart Wings 捷克
-QV,老挝航空（Lao Aviation）,老挝
-QW,青岛航空, 中国
-QX,Horizon Air 美国
-QZ,加拿大爵士航空 加拿大 Indonesia AirAsia 印度尼西亚
-R2,Orenburg Airlines 俄罗斯
-RA,皇家尼泊尔航空（Royal Nepal Airlines） 尼泊尔
-RB,叙利亚阿拉伯航空（Syrian Arab Airlines）,叙利亚
-RC,大西洋航空公司（Atlantic Airways） 法罗群岛
-RE,Aer Arann 爱尔兰
-RF,佛罗里达西部国际航空公司（Florida West International Airways）,美国
-RG,巴西航空（Varig Brasil）,巴西
+Q5,40-Mile Air,美国
+QF,Qantas Airways|澳洲航空,澳洲
+QT,哥伦比亚坦帕航空公司,哥伦比亚
+QQ,Alliance Airlines Reno Air,美国
+QR,Qatar Airways|卡塔尔航空,卡塔尔
+QS,Travel Service Airlines,
+QS,Smart Wings,捷克
+QV,Lao Aviation|老挝航空,老挝
+QW,青岛航空, 中华人民共和国
+QX,Horizon Air,美国
+QZ,加拿大爵士航空,加拿大 
+QZ,Indonesia AirAsia,印度尼西亚
+R2,Orenburg Airlines,俄罗斯
+RA,Royal Nepal Airlines|皇家尼泊尔航空,尼泊尔
+RB,Syrian Arab Airlines|叙利亚阿拉伯航空,叙利亚
+RC,Atlantic Airways|大西洋航空公司,法罗群岛
+RE,Aer Arann,爱尔兰
+RF,Florida West International Airways|佛罗里达西部国际航空公司,美国
+RG,Varig Brasil|巴西航空,巴西
 RI,Mandala Airlines,印度尼西亚
-RJ,皇家约旦航空(Royal Jordanian Airline) 约旦
-RQ,Kam Air 阿富汗
-RN,曙光航空（Air Horizons）,
+RJ,Royal Jordanian Airline|皇家约旦航空,约旦
+RQ,Kam Air,阿富汗
+RN,Air Horizons|曙光航空,
 RN,Euralair,法国
-RO,Tarom 罗马尼亚
-S2,撒哈拉航空（Air Sahara） 印度
+RO,Tarom,罗马尼亚
+S2,Air Sahara|撒哈拉航空,印度
 S4,SATA International,葡萄牙
-S7,西伯利亚航空（S7 Airlines） 俄国
-S9,East African Safari Air 
-SA,南非航空(South African Airways) 南非
-SC,山东航空（Shandong Airlines） 中国
-SD,苏丹航空（Sudan Airways） 苏丹
+S7,S7 Airlines|西伯利亚航空,俄国
+S9,East African Safari Air,
+SA,South African Airways|南非航空,南非
+SC,Shandong Airlines|山东航空,中华人民共和国
+SD,Sudan Airways|苏丹航空,苏丹
 SG,Jetsgo,
 SG,Spicejet,印度
-SH,FlyMe 
-SJ,自由航空（Freedom Air） 新西兰
-SK,斯堪的纳维亚航空(SAS Scandinavian Airlines) 瑞典
-SN,Brussels Airlines 比利时
-SQ,新加坡航空（Singapore Airlines）,新加坡
-SR,瑞士航空（Swissair）, 瑞士（已结束营运）
-SU,俄罗斯航空(Aeroflot Russian Airlines),俄罗斯
-SV,沙特阿拉伯航空(Saudi Arabian Airlines) 沙特阿拉伯
-SW,纳米比亚航空（Air Namibia） 纳米比亚
-SY,太阳乡村航空（Sun Country Airlines）,美国
-SZ,中国西南航空(Air China Southwest Company) 中国
+SH,FlyMe,
+SJ,Freedom Air|自由航空,新西兰
+SK,SAS Scandinavian Airlines|斯堪的纳维亚航空,瑞典
+SN,Brussels Airlines,比利时
+SQ,Singapore Airlines|新加坡航空,新加坡
+SR,SwissAir|瑞士航空,瑞士
+SU,Aeroflot Russian Airlines|俄罗斯航空,俄罗斯
+SV,Saudi Arabian Airlines|沙特阿拉伯航空,沙特阿拉伯
+SW,Air Namibia|纳米比亚航空,纳米比亚
+SY,Sun Country Airlines|太阳乡村航空,美国
+SZ,Air China Southwest Company|中国西南航空,中华人民共和国
 T4,Hellas Jet,
-T5,土库曼斯坦航空（Turkmenistan） 土库曼
+T5,Turkmenistan|土库曼斯坦航空,土库曼
 T7,Twin Jet,法国
-T9,TransMerridian Airlines 美国
+T9,TransMerridian Airlines,美国
 TA,Taca International,萨尔瓦多
-TE,立陶宛航空（flyLAL） 立陶宛
-TG,泰国国际航空（Thai Airways）,泰国
-TH,金鹏航空（Transmile Air Services）, 马来西亚
-TH,British Airways CitiExpress 英国
-TL,地中海航空公司（Trans Mediterranean Airways)(TMA） 
-Airnorth Regional 澳大利亚
-TK,土耳其航空（Turkish Airlines） 土耳其
-TN,大溪地航空（Air Tahiti Nui） 法属波利尼西亚
-TP,葡萄牙航空（TAP Air）,葡萄牙
-TQ,Tandem Aero 
-TR,老虎航空（Tiger Airways） 新加坡
-TS,Air Transat 加拿大
-TT,Air Lithuania 立陶宛
-TU,突尼斯航空（Tunis Air）,突尼斯
+TE,flyLAL|立陶宛航空,立陶宛
+TG,Thai Airways|泰国国际航空,泰国
+TH,Transmile Air Services|金鹏航空, 马来西亚
+TH,British Airways CitiExpress,英国
+TL,Trans Mediterranean Airways|地中海航空公司,
+TL,Airnorth Regional,澳大利亚
+TK,Turkish Airlines|土耳其航空,土耳其
+TN,Air Tahiti Nui|大溪地航空,法属波利尼西亚
+TP,TAP Air|葡萄牙航空,葡萄牙
+TQ,Tandem Aero,
+TR,Tiger Airways|老虎航空,新加坡
+TS,Air Transat,加拿大
+TT,Air Lithuania,立陶宛
+TU,Tunis Air|突尼斯航空,突尼斯
 TX,Air Caraibes,法国
-TZ,联美航空（ATA） 美国（已歇业）
-U2,easyJet 英国
-UFS 美国
-U5,USA 3000 Airlines 美国
-U6,乌拉尔航空（Ural Airlines）,俄罗斯
-U8,Armavia 亚美尼亚
+TZ,ATA|联美航空,美国
+U2,easyJet,英国
+U2,UFS,美国
+U5,USA 3000 Airlines,美国
+U6,Ural Airlines|乌拉尔航空,俄罗斯
+U8,Armavia,亚美尼亚
 U9,Tatarstan Airlines,俄罗斯
-UA,联合航空（United Airlines） 美国
-UB,缅甸航空（Myanmar Airways） 缅甸
-UL,斯里兰卡航空（SriLankan Airlines）,斯里兰卡
-UM,津巴布韦航空（Air Zimbabwe）,津巴布韦
-UN,俄罗斯全禄航空 俄罗斯
-UO,HK Express(旧称“香港快运航空”),香港
-UQ,O'Connor Airlines 澳洲
-US,全美航空（US Airways）,美国
-UU,Air Austral 留尼汪岛
+UA,United Airlines|联合航空,美国
+UB,Myanmar Airways|缅甸航空,缅甸
+UL,SriLankan Airlines|斯里兰卡航空,斯里兰卡
+UM,Air Zimbabwe|津巴布韦航空,津巴布韦
+UN,俄罗斯全禄航空,俄罗斯
+UO,HK Express|香港快运航空,香港
+UQ,O'Connor Airlines,澳洲
+US,US Airways|全美航空,美国
+UU,Air Austral,留尼汪岛
 UX,Air Europa Lineas Aereas,西班牙
-UY,喀麦隆航空（Cameroon Airlines）,喀麦隆
-V7,塞内加尔航空（Air Senegal） 塞内加尔
-V9,BAL 俄罗斯
-VA,维珍澳洲航空（Virgin Australia）,澳洲
-VD,Air Liberte 
-VF,惠旅航空（Valuair） 新加坡
+UY,Cameroon Airlines|喀麦隆航空,喀麦隆
+V7,Air Senegal|塞内加尔航空,塞内加尔
+V9,BAL,俄罗斯
+VA,Virgin Australia|维珍澳洲航空,澳洲
+VD,Air Liberte, 
+VF,ValuAir|惠旅航空,新加坡
 VH,Aeropostal,委内瑞拉
 VI,Volga-Dnepr Airlines,俄罗斯
-VN,越南航空（Vietnam Airlines）,越南
-VR,佛得角航空（Cape Verde Airlines) (TACV） 佛得角
-VS,维珍大西洋航空(Virgin Atlantic Airlines) 英国
-VV,乌克兰空中世界航空（Aerosvit） 乌克兰
-VY,国华航空（Formosa Airlines）,中华民国（已结业）
-伏林航空（Vueling Airlines）,西班牙
+VN,Vietnam Airlines|越南航空,越南
+VR,Cape Verde Airlines|佛得角航空,佛得角
+VS,Virgin Atlantic Airlines|维珍大西洋航空,英国
+VV,Aerosvit|乌克兰空中世界航空,乌克兰
+VY,Formosa Airlines|国华航空,台湾
+VY,Vueling Airlines|伏林航空,西班牙
 VZ,MyTravel Airways,英国
-W2,加拿大西部航空公司(Canadian Western Airlines),加拿大
+W2,Canadian Western Airlines|加拿大西部航空公司,加拿大
 W3,Flyhy Cargo Airlines,泰国
-W5,马汉航空（Mahan Air） 伊朗
-W6,Wizzair 匈牙利
-W8,加拿大喷气机航空公司(Cargojet Airways Ltd.) 加拿大
+W5,Mahan Air|马汉航空,伊朗
+W6,Wizzair,匈牙利
+W8,Cargojet Airways Ltd.|加拿大喷气机航空公司,加拿大
 W9,Sky Service Bvba,英国
-Eastwind Airlines, Inc. 美国
-WB,卢旺达航空（Rwand Air）,卢旺达
-WD,DAS Air Cargo 
-WF,Widerøe 挪威
-WH,中国西北航空公司,中国
-WebJet Linhas Aéreas,巴西
-WK,American Falcon, S.A. 阿根廷
-WN,西南航空（Southwest Airlines）,美国
-WO,世界航空（World Airways, Inc）,美国
-WS,WestJet 加拿大
-WV,瑞典航空（Swe Fly） 瑞典
-WW,bmibaby Limited 英国
+W9,Eastwind Airlines Inc.,美国
+WB,Rwand Air|卢旺达航空,卢旺达
+WD,DAS Air Cargo,
+WF,Widerøe 挪威,
+WH,中国西北航空公司,中华人民共和国
+WH,WebJet Linhas Aéreas,巴西
+WK,American Falcon S.A., 阿根廷
+WN,Southwest Airlines|西南航空,美国
+WO,World Airways Inc.|世界航空,美国
+WS,WestJet,加拿大
+WV,Swe Fly|瑞典航空,瑞典
+WW,Bmibaby Limited,英国
 WX,城市客机航空,爱尔兰
-WY,阿曼航空（Oman Air）,阿曼
-X0,新疆航空,中国（因加入中国南方航空而不再使用此代码）
-X2,新华航空,中国（因加盟海南航空而不再使用此代码）
-X3,Hapag-Lloyd Express 德国
+WY,Oman Air|阿曼航空,阿曼
+X0,新疆航空,中华人民共和国
+X2,新华航空,中华人民共和国
+X3,Hapag-Lloyd Express,德国
 X5,Afrique Airlines,
-X7,赤塔航空（Chitaavia） 俄罗斯
-XC,泛太平洋航空（Snp Airlines）,皇家泛太平洋
-XF,海参崴航空（Vladivostok Air）,俄罗斯
-XJ,美莎巴航空（Mesaba Airlines）,美国
+X7,Chitaavia|赤塔航空,俄罗斯
+XC,Snp Airlines|泛太平洋航空,皇家泛太平洋
+XF,Vladivostok Air|海参崴航空,俄罗斯
+XJ,Mesaba Airlines|美莎巴航空,美国
 XK,CCM Airlines,法国
-XM,J-Air 日本
-Australian Air Express,澳大利亚
-XO,LTE国际航空(LTE International Airways),西班牙
+XM,J-Air,日本
+XM,Australian Air Express,澳大利亚
+XO,LTE International Airways|LTE国际航空,西班牙
 XS,SITA,法国
-XT,Air Exel,荷兰（已歇业）
-XU,通里萨航空（TONLESAP AIRLINES）,柬埔寨
-XY,国家航空服务公司National Air Services 沙特阿拉伯
-Y8,扬子江快运航空有限公司(Yangtze River Airlines Company Limited) 中国
-Y9,基什航空（Kish Airline）,伊朗
-YK,Cyprus Turkish Airlines 土耳其
-YL,亚马尔航空（Yamal Airlines） 俄罗斯
-YM,黑山航空（Montenegro Airlines） 黑山
-YS,欧洲区域航空公司(Régional Compagnie Aerienne Européenne),法国
-YT,多哥航空（Air Togo）,多哥
-YV,美莎航空（Mesa Airlines） 美国
-YU,欧洲大西洋航空（Euroatlantic Airways） 葡萄牙
-YW,Air Nostrum 西班牙
-YX,中西航空（Midwest Airlines）,美国
-Z2,飞龙航空（Zest Airways）, 菲律宾
-Z2,中原航空公司（Zhongyuan Airlines）,中华人民共和国 中华人民共和国（因并入中国南方航空而不再使用此代码）
-Z4,Zoom Airlines 加拿大
+XT,Air Exel,荷兰）
+XU,Tonlesap Airlines|通里萨航空,柬埔寨
+XY,National Air Services|国家航空服务公司,沙特阿拉伯
+Y8,Yangtze River Airlines Company Limited|扬子江快运航空有限公司,中华人民共和国
+Y9,Kish Airline|基什航空,伊朗
+YK,Cyprus Turkish Airlines,土耳其
+YL,Yamal Airlines|亚马尔航空,俄罗斯
+YM,Montenegro Airlines|黑山航空,黑山
+YS,Régional Compagnie Aerienne Européenne|欧洲区域航空公司,法国
+YT,Air Togo|多哥航空,多哥
+YV,Mesa Airlines|美莎航空,美国
+YU,Euroatlantic Airways|欧洲大西洋航空,葡萄牙
+YW,Air Nostrum,西班牙
+YX,Midwest Airlines|中西航空,美国
+Z2,Zest Airways|飞龙航空, 菲律宾
+Z2,Zhongyuan Airlines|中原航空公司,中华人民共和国
+Z4,Zoom Airlines,加拿大
 ZA,Astair,俄罗斯
 ZE,Líneas Aéreas Azteca,墨西哥
-ZG,非凡航空（Viva Macau）,中国澳门（已结业）
-ZH,深圳航空公司（Shenzhen Airlines） 中国
+ZG,Viva Macau|非凡航空,中国澳门
+ZH,Shenzhen Airlines|深圳航空公司,中华人民共和国
 ZI,Aigle Azur,法国
-ZL,区域快线（Regional Express）,澳大利亚
-ZN,Air Bourbon 
-ZS,Azzurra Air 
-Sama Airlines 沙特阿拉伯
-ZU,太阳神航空（Helios Airways） 塞浦路斯
-ZW,威斯康辛航空公司（Air Wisconsin） 美国
-ZV,Air Midwest 美国
+ZL,Regional Express|区域快线,澳大利亚
+ZN,Air Bourbon,
+ZS,Azzurra Air,
+ZS,Sama Airlines,沙特阿拉伯
+ZU,Helios Airways|太阳神航空,塞浦路斯
+ZW,Air Wisconsin|威斯康辛航空公司,美国
+ZV,Air Midwest,美国
 ZX,Air Georgian,加拿大
