@@ -1,11 +1,11 @@
 code,airline,belongs
-0A,Amber Air,立陶宛
+0A,Amber Air|琥珀航空,立陶宛
 0B,Blue Air,罗马尼亚
-0D,Darwin Airline,瑞士
+0D,Darwin Airline|达尔文航空,瑞士
 0J,Jetclub,瑞士
 0K,Air Kokshetau,哈萨克
-1A,艾玛迪斯全球旅游分销系统公司（Amadeus Global Travel Distribution）,西班牙
-1B,环亚旅游资讯系统有限公司（Abacus International）,新加坡
+1A,Amadeus Global Travel Distribution|艾玛迪斯全球旅游分销系统公司,西班牙
+1B,Abacus International|环亚旅游资讯系统有限公司,新加坡
 1C,EDS Information Business,瑞士
 1D,Radixx Solutions International,美国
 1E,中国民航信息网络股份有限公司（TravelSky Technology Limited）,中华人民共和国 中华人民共和国
