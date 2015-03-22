@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var fs = require('fs');
+
+console.log(process);
+
+function format(type) {
+  
+}
