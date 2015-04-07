@@ -1,2 +1,2 @@
-exports.airlines = require('./airlines');
-exports.airports = require('./airports');
+exports.airlines = require('../dist/airlines');
+exports.airports = require('../dist/airports');
