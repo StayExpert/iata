@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/StayExpert/IATA",
   "devDependencies": {
-    "csv-parse": "^0.1.0",
+    "csv-jsonify": "0.1.0",
     "debug": "^2.1.3"
   }
 }
