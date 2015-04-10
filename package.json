@@ -4,8 +4,8 @@
   "description": "a collection of IATA codes including all airlines and airports of the world.",
   "main": "index.js",
   "scripts": {
-    "build-airlines": "DEBUG=StayExpert,StayExpert:* bin/format airlines",
-    "build-airports": "DEBUG=StayExpert,StayExpert:* bin/format airports"
+    "build-airlines": "node_modules/.bin/csv-jsonify dist/airlines.csv",
+    "build-airports": "node_modules/.bin/csv-jsonify dist/airports.csv"
   },
   "repository": {
     "type": "git",
